@@ -23,5 +23,5 @@ public class TestCat {
         Cat cat = new Cat(feline);
         assertEquals(List.of("Животные", "Птицы", "Рыба"), cat.getFood());
     }
-    //==
+
 }
